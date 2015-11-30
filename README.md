@@ -22,8 +22,8 @@ APIs
 The project involves two API calls. The first, to get the menu data should be a GET request to this url: https://galvanize-eats-api.herokuapp.com/menu. The second request, to post an order, should be a POST request to this url: https://galvanize-eats-api.herokuapp.com/orders. When you have successfully hit the POST api you will see "Congratulations!".
 
 Notes
-CSS or SASS only- no styling frameworks!
-You can use jQuery for DOM manipulation
-Does not have to be responsive
-Use feature-branch workflows
-Deploy your work
+*CSS or SASS only- no styling frameworks!
+*You can use jQuery for DOM manipulation
+*Does not have to be responsive
+*Use feature-branch workflows
+*Deploy your work
